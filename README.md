@@ -39,13 +39,14 @@ The player to the left of the dealer goes first, asking a player on the opposing
 
 When a player on either team believes their team possesses all the cards in a given set, they may declare. When a player declares a set, they must identify the number and location of each card in that set. If the player declares correctly, their team scores a point for the declared set. If the player declares incorrectly, but their team possesses all the cards in the declared set, the set is forfeit (removed from the game), and neither team scores points for that set. If the player declares incorrectly, and the other team possesses one or more of the cards in the set, the point is awarded to the opposing team. Declaration must happen between turns (i.e., a player may not declare after another player has asked a question, but before an answer has been given from the opposing team).
 
-When a player surrenders their final card to an opponent (or their final card is removed from the game due to declaration of a set), that player may no longer ask for cards. They *may*, however, still declare for their team. If a player's last card is removed while it would still be that player's turn, the turn falls to the next player in clockwise order.
+When a player surrenders their final card to an opponent (or their final card is removed from the game due to declaration of a set), that player may no longer ask for cards. They *may*, however, still declare for their team. If a player's last card is removed while it would still be that player's turn, that player may select a player on their team to play next.
 
 #### Game End and Scoring
 
-When a team has no cards remaining, the opposing team may no longer ask any questions, nor may they discuss with their teammates about their hands. Each player on the remaining team has one chance to declare remaining sets for their team. Players may forfeit this turn, but the very last player must declare or else the team forfeits the rest of the points. Play order is clockwise from the player who's turn it was most recently.
+When a team has no cards remaining, the opposing team may no longer ask any questions, nor may they discuss with their teammates about their hands. Each player on the remaining team has one chance to declare remaining sets for their team. Players may forfeit this turn, but the very last player must declare or else the team forfeits the rest of the points. Play passes to the left from the most recent player.
 
 After all players are out of cards, valid sets are tallied up, and the team with the most sets wins.
+
 
 ### 4-Player Version
 
@@ -61,13 +62,32 @@ Gameplay works the same as with 6 players, except when a player declares, they m
 
 *TODO: clarify the rules for when a player declares incorrectly against the Pile*
 
-### Clarifications and FAQ
 
-*TODO...*
+### FAQ
 
-### Alternate Rules
+##### When a player runs out of cards on their turn, how is the next player determined?
+The player whose turn it is chooses a player on their team (who still has cards) to take the next turn.
 
-*TODO...*
+##### How is play order determined when all players in the opposing team are out of cards?
+Play passes to the left, starting with the most recent player.
+
+
+### Variations
+
+#### 8-Players
+
+It is possible to play with 8 players, though the game can get exceptionally difficult. The rules are the same as with 6 players, but the cards are dealt in a circle until they run out, so not all players will start with the same number of cards (optionally, you can remove one entire set so that everyone starts with an even 6 cards).
+
+#### Limited Declarations
+
+To make the game a little more challenging, you can opt to play where players may only declare on their turn. After the declaration is resolved, the player's turn continues. This introduces some interesting strategy.
+
+#### Strict Declarations
+
+In the normal game, if you declare incorrectly, but your team has all of the cards in the set, the point is merely forfeit. You can opt to play so that the opposing team gets the point if the declaration is incorrect in *any* way, even if that team does not possess any of the cards in that set.
+
+
+#### *Have Your Own Variation? Let Us Know!*
 
 ## License
 
