@@ -1,6 +1,6 @@
 # Cuttlefish, The Card Game
 
-This is the website for Cuttlefish, The Card Game.
+This is the website and official rules for Cuttlefish, The Card Game.
 
 http://cuttlefish.cards
 
