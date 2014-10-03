@@ -87,7 +87,7 @@ To make the game a little more challenging, you can opt to play where players ma
 In the normal game, if you declare incorrectly, but your team has all of the cards in the set, the point is merely forfeit. You can opt to play so that the opposing team gets the point if the declaration is incorrect in *any* way, even if that team does not possess any of the cards in that set.
 
 
-#### *Have Your Own Variation? Let Us Know!*
+#### *Have Your Own Variation? [Let Us Know](https://github.com/lakenen/cuttlefish.cards/issues)!*
 
 ## License
 
